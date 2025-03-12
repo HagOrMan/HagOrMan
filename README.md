@@ -22,10 +22,10 @@ Some of my other claims to fame are:
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/kyle-hagerman-se/) and send a request to chat!
 
-## Languages
+## ⚡ Languages & Technology
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <!-- Left Column (Icons) -->
-    <div style="flex-grow: 1; flex-wrap: wrap; display: flex; gap: 20px;">
+    <div style="flex-grow: 1; flex-wrap: wrap; display: flex; flex-direction: column; gap: 20px;">
         <div style="display: flex; gap: 5px; flex-wrap: wrap;">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,12 +37,21 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/kyle-hagerman-s
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white" />
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" />
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+            <img src="https://img.shields.io/badge/Playwright-37535f?style=for-the-badge" />
         </div>
         <div style="display: flex; gap: 5px; flex-wrap: wrap;">
             <img src="https://img.shields.io/badge/AI-008080?style=for-the-badge&logo=openai&logoColor=white" />
             <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        </div>
+        <div style="display: flex; gap: 5px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         </div>
         <div style="display: flex; gap: 5px; flex-wrap: wrap;">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
