@@ -60,7 +60,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/kyle-hagerman-s
         </div>
     </div>
     <!-- Right Column (GitHub Stats) -->
-    <div style="width: 300px; flex-shrink: 0;">
+    <div style="min-width: 300px; max-width: 80%; flex-grow: 1; flex-shrink: 0; justify-content: center; align-items: center;">
         <img style="padding-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagOrMan&layout=donut-vertical&border_radius=7&langs_count=6&cache_seconds=1800" />
     </div>
 </div>
