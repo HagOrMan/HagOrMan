@@ -13,7 +13,9 @@ Does anyone actually read these?
 If you're still here, clearly you want to know at least a bit about me.
 
 ## :computer: About Me: Part 2
-Hey! I'm an aspiring Software Engineer who loves developing products that help people. One of my proudest experiences is with the McMaster Engineering Society where we've gathered a team of software developers to improve our website and add fun new features for students (see pinned repo). I led a team to develop a fully custom booking system for study rooms (which is continuously being improved even now) and am leading another team whose product should be out this year! My teams are building software that solves issues our student body and Engineering Society have had for ages, and it's an incredibly rewarding experience.
+Hey! I'm an aspiring Software Engineer who loves developing products that help people. :wave:
+
+One of my proudest experiences is with the McMaster Engineering Society where we gathered a team of software developers to improve our website and add fun new features for students (see [pinned repo](https://github.com/McMaster-Engineering-Society/MES-Website-App-Router)). I led a team to develop a fully custom booking system for study rooms (which is continuously being improved even now) and am leading another team whose product should be out this year! My teams are building software that solves issues our student body and Engineering Society have had for ages, and it's an incredibly rewarding experience.
 
 Some of my other claims to fame are:
 - :computer: [Programming Competition Lead @Ontario Engineering Competition](https://www.linkedin.com/posts/kyle-hagerman-se_what-a-weekend-at-the-ontario-engineering-activity-7296954533425917952-uope?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfaWEcBdC0j1c09zJFNEe2KwpuIz95fElU)
