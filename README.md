@@ -17,8 +17,8 @@ Hey! I'm an aspiring Software Engineer who loves developing products that help p
 
 Some of my other claims to fame are:
 - :computer: [Programming Competition Lead @Ontario Engineering Competition](https://www.linkedin.com/posts/kyle-hagerman-se_what-a-weekend-at-the-ontario-engineering-activity-7296954533425917952-uope?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfaWEcBdC0j1c09zJFNEe2KwpuIz95fElU)
-- :3rd_place_medal: [3rd Place Overall @DeltaHacks](https://github.com/HagOrMan/Medisafe) - an app to eliminate negative prescription drug interactions
-- :seedling: [Best Health Hack @DeltaHacks](https://github.com/HagOrMan/DinoMind) - a journaling app with a motivational AI buddy
+- :3rd_place_medal: [3rd Place Overall @DeltaHacks IX](https://github.com/HagOrMan/Medisafe) - an app to eliminate negative prescription drug interactions
+- :seedling: [Best Health Hack @DeltaHacks X](https://github.com/HagOrMan/DinoMind) - a journaling app with a motivational AI buddy
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/kyle-hagerman-se/) and send a request to chat!
 
