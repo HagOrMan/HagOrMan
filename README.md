@@ -39,6 +39,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/kyle-hagerman-s
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/Flask-2C8EBB?style=for-the-badge&logo=flask&logoColor=white" />
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" />
             <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
